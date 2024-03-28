@@ -1,5 +1,6 @@
 ---
 title: "index"
+title-block-style: none
 ---
 
 This is a Quarto website.

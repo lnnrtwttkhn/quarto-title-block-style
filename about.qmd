@@ -1,5 +1,6 @@
 ---
 title: "About"
+title-block-style: default
 date: today
 description: "This is the about page"
 author:
